@@ -1,0 +1,2 @@
+class DataBaseError(Exception):
+    pass
