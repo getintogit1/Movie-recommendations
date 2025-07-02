@@ -19,11 +19,3 @@ A small Tkinter/CustomTkinter app that:
 - **Quick export**: download your results as CSV  
 - **Clean UI** with light/dark mode  
 
-## Installation
-
-```bash
-# via Poetry
-poetry install
-
-# or with pip
-pip install -r requirements.txt
