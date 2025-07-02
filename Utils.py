@@ -1,7 +1,7 @@
 import requests
 
-OMDB_API_KEY = '5ddf4335' 
-TMDB_API_KEY = "bd9b6a447934f21e6dd53de84728bc9d"  
+OMDB_API_KEY = '' 
+TMDB_API_KEY = ""  
 
 
 def get_movie_data(title): #3
