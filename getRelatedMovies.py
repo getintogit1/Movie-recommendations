@@ -11,7 +11,7 @@ from io import BytesIO
 class DataBaseError(Exception):
     pass
 
-TMDB_API_KEY = "bd9b6a447934f21e6dd53de84728bc9d"  
+TMDB_API_KEY = ""  
 
 '''Here we want to give as parameter movies and want to recieve some recommendations,before
 we need to specify the amount of recommendations by an int '''
