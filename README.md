@@ -14,7 +14,7 @@ A small Tkinter/CustomTkinter app that:
 ![Example 1](https://github.com/getintogit1/Movie-recommendations/blob/main/Images/Movie-Recommendation-Example2.png)
 
 ### 🎯 Second Example
-![Example 2](https://github.com/getintogit1/Movie-recommendations/blob/main/Images/Movie-Recommendation-example.png)
+![Example 2](https://github.com/getintogit1/Movie-recommendations/blob/main/Images/Movie-Recommendations-example.png)
 
 ## Features
 
