@@ -10,7 +10,11 @@ A small Tkinter/CustomTkinter app that:
 3. Displays posters via `ImageLoader`  
 4. Allows CSV download of recommendations  
 
+### 🔍 Search & Recommendation Result
+![Example 1](https://raw.githubusercontent.com/getintogit1/Movie-recommendations/main/Images/Movie-Recommendations-example.png)
 
+### 🎯 Second Example
+![Example 2](https://raw.githubusercontent.com/getintogit1/Movie-recommendations/main/Images/Movie-Recommendation-Example2.png)
 
 ## Features
 
