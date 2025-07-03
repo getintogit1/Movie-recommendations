@@ -11,10 +11,10 @@ A small Tkinter/CustomTkinter app that:
 4. Allows CSV download of recommendations  
 
 ### 🔍 Search & Recommendation Result
-![Example 1](https://raw.githubusercontent.com/getintogit1/Movie-recommendations/main/Images/Movie-Recommendations-example.png)
+![Example 1](https://github.com/getintogit1/Movie-recommendations/blob/main/Images/Movie-Recommendation-Example2.png)
 
 ### 🎯 Second Example
-![Example 2](https://raw.githubusercontent.com/getintogit1/Movie-recommendations/main/Images/Movie-Recommendation-Example2.png)
+![Example 2](https://github.com/getintogit1/Movie-recommendations/blob/main/Images/Movie-Recommendation-example.png)
 
 ## Features
 
