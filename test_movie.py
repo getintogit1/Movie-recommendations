@@ -7,7 +7,7 @@ from requests import get
 from tkinter import *
 from customtkinter import *
 
-OMDB_API_KEY = '5ddf4335'
+OMDB_API_KEY = ''
 
 class MovieTest(unittest.TestCase):
 
