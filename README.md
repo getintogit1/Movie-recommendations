@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)]()
 
 
-A small Tkinter/CustomTkinter app that:
+A small CustomTkinter app that:
 1. Searches for related movies via `MovieSearcher`  
 2. Fetches ratings via `MovieRater`  
 3. Displays posters via `ImageLoader`  
